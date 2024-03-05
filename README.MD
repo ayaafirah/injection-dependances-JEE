@@ -4,7 +4,7 @@
 
 <img src="captures/CJEE1.png">
 
-<h4> 2. Implémentation de l'interface IDao :  </h4>
+<h4> 2. Implémentation de l'interface IDao :   </h4>
 
 <img src="captures/CJEE2.png">
 
